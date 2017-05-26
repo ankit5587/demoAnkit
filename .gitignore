@@ -50,4 +50,8 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+<<<<<<< HEAD
 B.txt
+=======
+B.txt
+>>>>>>> 60b52f7065fb706550380541ea29dd91223b423d
